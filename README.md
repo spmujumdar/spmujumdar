@@ -18,11 +18,11 @@ Everyday practice
 Improving my skill set implementation using the AWS environment
 
 💻 Programming languages and tools:
-Languages: Python, R, Java, JavaScript, HTML, CSS
-Statistics: Probability Theory, Hypothesis Testing, A/B Testing, Bayesian Inference, Markov Chain Monte Carlo
-ML Algorithms: Linear Regression, Logistic Regression, Random Forests, Support Vector Machine, ARIMA 
-Libraries: Pandas, NumPy, PyMC3, SciPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, PIL
-Technologies: Salesforce, Tableau, REST APIs, Power BI 
-Certification: Salesforce Platform Developer I 
-Database: MySQL, MS SQL server, MongoDB
-Tools: Jupyter, Jenkins, ANT, GIT, JIRA, Confluence, Postman
+- Languages: Python, R, Java, JavaScript, HTML, CSS
+- Statistics: Probability Theory, Hypothesis Testing, A/B Testing, Bayesian Inference, Markov Chain Monte Carlo
+- ML Algorithms: Linear Regression, Logistic Regression, Random Forests, Support Vector Machine, ARIMA 
+- Libraries: Pandas, NumPy, PyMC3, SciPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, PIL
+- Technologies: Salesforce, Tableau, REST APIs, Power BI 
+- Certification: Salesforce Platform Developer I 
+- Database: MySQL, MS SQL server, MongoDB
+- Tools: Jupyter, Jenkins, ANT, GIT, JIRA, Confluence, Postman
