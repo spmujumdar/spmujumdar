@@ -8,14 +8,14 @@ I am currently looking for a Data Science co-op/intern  and will continue to com
 
 🌱 Things I am currently working on:
 
--Finish my Master's Degree
--Strenthening my skills around Machine Learing
--Some amazing Data Science projects 🚀 coming soon
+- Finish my Master's Degree
+- Strenthening my skills around Machine Learing
+- Some amazing Data Science projects 🚀 coming soon
 
 💪 Things I am challenging myself with:
--Implementing Data Science to solve real world problems, and NOT JUST projects!
--Everyday practice
--Improving my skill set implementation using the AWS environment
+- Implementing Data Science to solve real world problems, and NOT JUST projects!
+- Everyday practice
+- Improving my skill set implementation using the AWS environment
 
 💻 Programming languages and tools:
 - Languages: Python, R, Java, JavaScript, HTML, CSS
